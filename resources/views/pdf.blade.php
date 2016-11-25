@@ -61,7 +61,7 @@
   </style>
 <body>
   <header>
-  <img id="img" src="img/jumpstart.png"/>
+  <img id="img" src="img/jumpstart2.png"/>
     <h1>JUMSTART CHIAPAS</h1>
     <h2>DesarrolloWeb</h2>
   </header>
